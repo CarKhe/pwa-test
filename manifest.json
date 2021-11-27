@@ -1,0 +1,24 @@
+{
+  "name":"Servicio de Folios",
+  "short_name":"Serv. Folio",
+  "descripcion":"Registro de los folios de Rodrigue'z Refrigeracion",
+  "background_color":"#2B2B2B",
+  "theme_color":"#F0DB4F",
+  "orientation":"landscape",
+  "display":"standalone",
+  "start_url":"./index.php?utm_source=web_app_manifest",
+  "scope":"./",
+  "lang":"es-MX",
+  "icons":[
+      {
+          "src":"img/icon.PNG",
+          "sizes":"482x482",
+          "type":"image/png"
+      }
+      
+
+  ]
+  
+
+
+}
